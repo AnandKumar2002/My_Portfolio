@@ -31,19 +31,18 @@ const ProjectsCard = ({ title, src, techstack, features, githubLink, hostedLink 
               </a>
             </div>
           </div>
-          <p className="text-sm tracking-wide mt-3 hover:text-gray-100 duration-300">
+          <div className="text-sm tracking-wide mt-3 hover:text-gray-100 duration-300">
             <span className='text-designColor'>Tech stack : </span>
             {techstack}
-          </p>
-          <p className="text-sm tracking-wide mt-3 hover:text-gray-100 duration-300">
+          </div>
+          <div className="text-sm tracking-wide mt-3 hover:text-gray-100 duration-300">
             <span className='text-designColor'>Features : </span>
             {features}
-          </p>
-
+          </div>
         </div>
       </div>
     </div>
   );
-}
+};
 
 export default ProjectsCard
