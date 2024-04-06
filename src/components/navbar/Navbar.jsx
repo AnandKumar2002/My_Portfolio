@@ -51,7 +51,7 @@ function Navbar() {
                         <RiMenu3Line />
                     </span>}
                 {showMenu && (
-                    <div data-aos="fade-right" className="w-[85%] h-screen overflow-scroll absolute top-0 left-0 bg-gray-900 p-4 scrollbar-hide">
+                    <div data-aos="fade-right" className="w-[85%] h-screen overflow-scroll absolute top-0 left-0 bg-gray-900 p-4 scrollbar-hide z-50">
                         <div className="flex flex-col gap-8 py-2 relative">
                             <div>
                                 <LayoutOfLeftBanner />

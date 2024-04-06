@@ -10,6 +10,7 @@ import Skills from './components/skills/Skills'
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import WhatsApp from './components/whatsapp/WhatsApp';
+import ScrollIndicator from './components/scrollindicator/ScrollIndicator.jsx';
 
 function App() {
   useEffect(() => {
@@ -24,6 +25,7 @@ function App() {
     <>
       <div className="w-full h-auto bg-bodyColor text-lightText ">
         <Navbar />
+        <ScrollIndicator />
         <div className='max-w-screen-xl mx-auto px-8'>
           <Banner />
           <About />
