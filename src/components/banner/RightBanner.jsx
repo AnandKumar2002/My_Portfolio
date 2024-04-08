@@ -10,7 +10,7 @@ function RightBanner() {
                 src={bannerImg}
                 alt="bannerImg"
             />
-            <div className="absolute bottom-0 w-[350px] h-[250px] lgl:w-[500px] lgl:h-[400px] bg-gradient-to-r from-[#1e2024] to-[#202327] shadow-shadowOne flex   justify-center items-center "></div>
+            <div className="absolute bottom-0 w-[350px] h-[250px] lgl:w-[500px] lgl:h-[400px] bg-gradient-to-r from-[#1e2024] to-[#202327] shadow-shadowOne flex justify-center items-center "></div>
         </div>
     )
 };

@@ -31,7 +31,10 @@
   display: none;
 }
 
-
+::selection {
+  background-color: #ff014f;
+  /* color: #c4cfde; */
+}
 
 /* 
 body {

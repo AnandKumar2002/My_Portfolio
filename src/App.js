@@ -11,6 +11,7 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 import WhatsApp from './components/whatsapp/WhatsApp';
 import ScrollIndicator from './components/scrollindicator/ScrollIndicator.jsx';
+import CustomCursor from './components/CustomCursor.jsx';
 
 function App() {
   useEffect(() => {
@@ -24,6 +25,7 @@ function App() {
   return (
     <>
       <div className="w-full h-auto bg-bodyColor text-lightText ">
+        <CustomCursor />
         <Navbar />
         <ScrollIndicator />
         <div className='max-w-screen-xl mx-auto px-8'>
