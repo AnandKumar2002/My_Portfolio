@@ -49,7 +49,7 @@ function ContactRight() {
       data-aos="zoom-in"
       className="w-full lgl:w-[60%] h-full py-10 bg-gradient-to-r from-[#1e2024] to-[#23272b] flex flex-col gap-8 p-4 lgl:p-8 rounded-lg shadow-shadowOne">
       <form
-        action="https://api.web3forms.com/submit" 
+        action="https://api.web3forms.com/submit"
         // action="https://formspree.io/f/mbjnpjng" 
         // action='https://getform.io/f/zaxdyjla'
         method="POST"
@@ -81,6 +81,7 @@ function ContactRight() {
                 "outline-designColor"
                 } contactInput`}
               type="text"
+              required
             />
           </div>
           <div className="w-full lgl:w-1/2 flex flex-col gap-4">
@@ -95,6 +96,7 @@ function ContactRight() {
                 "outline-designColor"
                 } contactInput`}
               type="number"
+              required
             />
           </div>
         </div>
@@ -110,6 +112,7 @@ function ContactRight() {
               "outline-designColor"
               } contactInput`}
             type="email"
+            required
           />
         </div>
         <div className="flex flex-col gap-4">
@@ -124,6 +127,7 @@ function ContactRight() {
               "outline-designColor"
               } contactInput`}
             type="text"
+            required
           />
         </div>
         <div className="flex flex-col gap-4">
@@ -138,6 +142,7 @@ function ContactRight() {
               } contactTextArea`}
             cols="30"
             rows="8"
+            required
           ></textarea>
         </div>
         <div className="w-full">
@@ -162,6 +167,6 @@ function ContactRight() {
       </form>
     </div>
   )
-}
+};
 
 export default ContactRight;
