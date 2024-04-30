@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/My_Portfolio/static/css/main.3f0e9580.css",
-    "main.js": "/My_Portfolio/static/js/main.e341402e.js",
+    "main.css": "/My_Portfolio/static/css/main.59f9139c.css",
+    "main.js": "/My_Portfolio/static/js/main.7e171961.js",
     "static/media/Portfolio.png": "/My_Portfolio/static/media/Portfolio.014f8fca85e4d3e4c867.png",
     "static/media/Apple_Vision_Pro.png": "/My_Portfolio/static/media/Apple_Vision_Pro.2ca7c544c273916e00ac.png",
-    "static/media/Anand_Kumar_Resume.pdf": "/My_Portfolio/static/media/Anand_Kumar_Resume.991e029d1ff4bf9472b8.pdf",
+    "static/media/Anand_Kumar_Resume.pdf": "/My_Portfolio/static/media/Anand_Kumar_Resume.bbfa10f25b7e9f1ad7e6.pdf",
     "static/media/bannerImg.png": "/My_Portfolio/static/media/bannerImg.a641e840e285582c8685.png",
     "static/media/Blog_App.jpg": "/My_Portfolio/static/media/Blog_App.81ed45c22d6095852924.jpg",
     "static/media/react.png": "/My_Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -20,11 +20,11 @@
     "static/media/typescript.svg": "/My_Portfolio/static/media/typescript.8d9549db1a0f5d73a35aa5dab48a09f9.svg",
     "index.html": "/My_Portfolio/index.html",
     "static/media/git.svg": "/My_Portfolio/static/media/git.6d27b5e0cde4ddb87e031ca706aa8350.svg",
-    "main.3f0e9580.css.map": "/My_Portfolio/static/css/main.3f0e9580.css.map",
-    "main.e341402e.js.map": "/My_Portfolio/static/js/main.e341402e.js.map"
+    "main.59f9139c.css.map": "/My_Portfolio/static/css/main.59f9139c.css.map",
+    "main.7e171961.js.map": "/My_Portfolio/static/js/main.7e171961.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f0e9580.css",
-    "static/js/main.e341402e.js"
+    "static/css/main.59f9139c.css",
+    "static/js/main.7e171961.js"
   ]
 }
