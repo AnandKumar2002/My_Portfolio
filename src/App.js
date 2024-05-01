@@ -12,6 +12,7 @@ import 'aos/dist/aos.css';
 import WhatsApp from './components/whatsapp/WhatsApp';
 import ScrollIndicator from './components/scrollindicator/ScrollIndicator.jsx';
 import CustomCursor from './components/CustomCursor.jsx';
+import ScrollToTop from './components/ScrollToTop.jsx';
 
 function App() {
   useEffect(() => {
@@ -39,6 +40,7 @@ function App() {
       </div>
       <Footer />
       <WhatsApp />
+      <ScrollToTop />
     </>
   );
 }
