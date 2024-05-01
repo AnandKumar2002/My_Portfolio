@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/My_Portfolio/static/css/main.59f9139c.css",
-    "main.js": "/My_Portfolio/static/js/main.7e171961.js",
+    "main.css": "/My_Portfolio/static/css/main.abc68343.css",
+    "main.js": "/My_Portfolio/static/js/main.7dfaef1a.js",
     "static/media/Portfolio.png": "/My_Portfolio/static/media/Portfolio.014f8fca85e4d3e4c867.png",
     "static/media/Apple_Vision_Pro.png": "/My_Portfolio/static/media/Apple_Vision_Pro.2ca7c544c273916e00ac.png",
     "static/media/Anand_Kumar_Resume.pdf": "/My_Portfolio/static/media/Anand_Kumar_Resume.bbfa10f25b7e9f1ad7e6.pdf",
@@ -20,11 +20,11 @@
     "static/media/typescript.svg": "/My_Portfolio/static/media/typescript.8d9549db1a0f5d73a35aa5dab48a09f9.svg",
     "index.html": "/My_Portfolio/index.html",
     "static/media/git.svg": "/My_Portfolio/static/media/git.6d27b5e0cde4ddb87e031ca706aa8350.svg",
-    "main.59f9139c.css.map": "/My_Portfolio/static/css/main.59f9139c.css.map",
-    "main.7e171961.js.map": "/My_Portfolio/static/js/main.7e171961.js.map"
+    "main.abc68343.css.map": "/My_Portfolio/static/css/main.abc68343.css.map",
+    "main.7dfaef1a.js.map": "/My_Portfolio/static/js/main.7dfaef1a.js.map"
   },
   "entrypoints": [
-    "static/css/main.59f9139c.css",
-    "static/js/main.7e171961.js"
+    "static/css/main.abc68343.css",
+    "static/js/main.7dfaef1a.js"
   ]
 }
