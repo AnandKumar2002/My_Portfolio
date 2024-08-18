@@ -10,6 +10,9 @@ import typescript from '../../assets/photos/typescript.svg'
 import scss from '../../assets/photos/sass.svg'
 import redux from '../../assets/photos/redux.svg'
 import git from '../../assets/photos/git.svg'
+import bootstrap from '../../assets/photos/bootstrap.svg'
+import material_ui from '../../assets/photos/material_ui.svg'
+import devExtreme from '../../assets/photos/devExtreme.svg'
 
 function Skills() {
   return (
@@ -38,30 +41,43 @@ function Skills() {
           src={javascript}
         />
         <SkillsCard
-          name={'REACT'}
-          src={react}
-        />
-        <SkillsCard
-          name={'TAILWIND'}
-          src={tailwind}
+          name={'SCSS'}
+          src={scss}
         />
         <SkillsCard
           name={'TYPESCRIPT'}
           src={typescript}
         />
         <SkillsCard
-          name={'SCSS'}
-          src={scss}
+          name={'REACT'}
+          src={react}
         />
         <SkillsCard
           name={'REDUX'}
           src={redux}
         />
         <SkillsCard
+          name={'TAILWIND'}
+          src={tailwind}
+        />
+        <SkillsCard
+          name={'BOOTSTRAP'}
+          src={bootstrap}
+        />
+        <SkillsCard
+          name={'MATERIAL UI'}
+          src={material_ui}
+        />
+        <SkillsCard
+          name={'DEVEXTREME'}
+          src={devExtreme}
+        />
+        <SkillsCard
           name={'GIT'}
           src={git}
         />
       </div>
+
     </section>
   )
 }

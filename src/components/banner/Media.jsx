@@ -21,7 +21,7 @@ function Media() {
                         </span>
                     </a>
                     <a
-                        href="https://github.com/anandkumar62"
+                        href="https://github.com/anandkumar2002"
                         target='_blank'
                     >
                         <span className="bannerIcon">

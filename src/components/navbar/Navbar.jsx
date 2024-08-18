@@ -13,8 +13,10 @@ function Navbar() {
     return (
         <div className='w-full sticky top-0 z-50 bg-bodyColor h-20 mx-auto flex justify-between items-center font-titleFont border-b-[1px] border-b-gray-600 shadow-2xl shadow-black  lgl:px-14 px-4'>
             <div className='px-5'>
-                <h1 className='uppercase cursor-pointer text-4xl font-bold'>
-                    <span className='text-designColor '>A</span>nand</h1>
+                <a href="https://wa.me/8219353946" target='_blank'>
+                    <h1 className='uppercase cursor-pointer text-4xl font-bold'>
+                        <span className='text-designColor '>A</span>nand</h1>
+                </a>
             </div>
             <div>
                 <ul className='hidden mdl:inline-flex items-center gap-6 lg:gap-10 '>

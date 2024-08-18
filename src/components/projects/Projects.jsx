@@ -24,7 +24,7 @@ function Projects() {
                 <ProjectCard
                     title='Blog App'
                     src={Blog_App}
-                    githubLink={'https://github.com/anandkumar62/Blog-App-with-Appwrite'}
+                    githubLink={'https://github.com/anandkumar2002/Blog-App-with-Appwrite'}
                     hostedLink={'https://blog-app-with-appwrite-three.vercel.app/'}
                     techstack={'React.js, JavaScript, Tailwind , React Hook Form, Redux Toolkit, Router, Appwrite.'}
                     features={<ul className="list-disc list-inside">
@@ -38,8 +38,8 @@ function Projects() {
                 <ProjectCard
                     title='Weather App'
                     src={Weather_App}
-                    githubLink={'https://github.com/anandkumar62/React-Weather-App'}
-                    hostedLink={'https://anandkumar62.github.io/React-Weather-App/'}
+                    githubLink={'https://github.com/anandkumar2002/React-Weather-App'}
+                    hostedLink={'https://anandkumar2002.github.io/React-Weather-App/'}
                     techstack={'React.js, JavaScript, Tailwind, OpenWeatherMap API.'}
                     features={<ul className="list-disc list-inside">
                         <li>Provided current updates and forecasts for global weather conditions.</li>
@@ -51,8 +51,8 @@ function Projects() {
                 <ProjectCard
                     title='Portfolio Website'
                     src={Portfolio}
-                    githubLink={'https://github.com/anandkumar62/My_Portfolio'}
-                    hostedLink={'https://anandkumar62.github.io/My_Portfolio/'}
+                    githubLink={'https://github.com/anandkumar2002/My_Portfolio'}
+                    hostedLink={'https://anandkumar2002.github.io/My_Portfolio/'}
                     techstack={'React.js, JavaScript, Tailwind, React-icons, React-scroll.'}
                     features={<ul className="list-disc list-inside">
                         <li>Developed a fully responsive website.</li>
@@ -65,8 +65,8 @@ function Projects() {
                 <ProjectCard
                     title='Apple Vision Pro Clone'
                     src={Apple_Vision_Pro}
-                    githubLink={'https://github.com/anandkumar62/Apple-Vision-Pro-website-clone-using-HTML-CSS-JAVASCRIPT-'}
-                    hostedLink={'https://anandkumar62.github.io/Apple-Vision-Pro-website-clone-using-HTML-CSS-JAVASCRIPT-/'}
+                    githubLink={'https://github.com/anandkumar2002/Apple-Vision-Pro-website-clone-using-HTML-CSS-JAVASCRIPT-'}
+                    hostedLink={'https://anandkumar2002.github.io/Apple-Vision-Pro-website-clone-using-HTML-CSS-JAVASCRIPT-/'}
                     techstack={'JavaScript, CSS, HTML, GSAP (GreenSock Animation Platform)'}
                     features={<ul className="list-disc list-inside">
                         <li>Developed a UI clone of the Apple Vision Pro website.</li>
@@ -79,8 +79,8 @@ function Projects() {
                 <ProjectCard
                     title='Password Generator'
                     src={Password_Generator}
-                    githubLink={'https://github.com/anandkumar62/Password-Generator-by-using-React'}
-                    hostedLink={'https://anandkumar62.github.io/Password-Generator-by-using-React/'}
+                    githubLink={'https://github.com/anandkumar2002/Password-Generator-by-using-React'}
+                    hostedLink={'https://anandkumar2002.github.io/Password-Generator-by-using-React/'}
                     techstack={'React.js ,JavaScript, Tailwind, React Hooks.'}
                     features={<ul className="list-disc list-inside">
                         <li>Generated strong, random passwords of specified length.</li>

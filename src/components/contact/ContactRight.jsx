@@ -17,12 +17,20 @@ function ContactRight() {
   };
   // ========== Email Validation end here ================
 
+  // ========== Phone Number Validation start here ==============
+  const phoneValidation = () => {
+    return String(phoneNumber).match(/^\d{10}$/);
+  };
+  // ========== Phone Number Validation end here ================
+
   const handleSend = (e) => {
     // e.preventDefault();
     if (username === "") {
       setErrMsg("Username is required!");
     } else if (phoneNumber === "") {
       setErrMsg("Phone number is required!");
+    } else if (!phoneValidation()) {
+      setErrMsg("Please provide a valid 10-digit phone number!");
     } else if (email === "") {
       setErrMsg("Please give your Email!");
     } else if (!emailValidation(email)) {
