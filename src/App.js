@@ -13,6 +13,7 @@ import WhatsApp from './components/whatsapp/WhatsApp';
 import ScrollIndicator from './components/scrollindicator/ScrollIndicator.jsx';
 import CustomCursor from './components/CustomCursor.jsx';
 import ScrollToTop from './components/ScrollToTop.jsx';
+import SocialMediaFAB from './components/socialMediaFAB/SocialMediaFAB.jsx';
 
 function App() {
   useEffect(() => {
@@ -39,7 +40,7 @@ function App() {
         </div>
       </div>
       <Footer />
-      <WhatsApp />
+      <SocialMediaFAB />
       <ScrollToTop />
     </>
   );
